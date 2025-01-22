@@ -1,1 +1,1 @@
-<h2 align="left">Hi 👋! My name is Charif, and I'm a Passionate Data Enthusiast, from Morocco</h2>
+<h2 align="left">Hi 👋! My name is Charif, and I'm a passionate data enthusiast from Morocco, eager to explore and solve challenges in the world of data.</h2>
